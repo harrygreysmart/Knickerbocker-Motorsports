@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.header {
+    background-color: #002147;
+    font-size: 128%;
+}
+
+.header a {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 1.7%;
+}
+
+.header #navlinks {
+    display: inline;
+}
+
+.header :link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header :visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header #navlinks :hover {
+    text-decoration: underline;
+}
+
+.header #kmlogo {
+    width: 25%;
+    height: 20%;
+    vertical-align: middle;
+    padding-right: 4%;
+}
+
+#aboutlinks {
+    margin: auto;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    word-spacing: 3em;
+}
+
+#aboutlinks :link {
+    color: #75B2DD;
+    text-decoration: none;
+    font-size: 150%;
+    padding-top: 3%;
+    padding-right: 3%;
+    text-align: center;
+}
+
+#aboutlinks :visited {
+    color: #75B2DD;
+    text-decoration: none;
+}
+
+#aboutlinks :hover {
+    text-decoration: underline;
+}
+
+#content {
+    color: #002147;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+}
+
+#vision {
+    font-size: 400%;
+    padding-bottom: 3%;
+
+}
+
+#shop {
+    font-size: 400%;
+    padding-bottom: 3%;
+    padding-top: 5%;
+}
+
+#team {
+    font-size: 400%;
+    padding-bottom: 3%;
+    padding-top: 5%;
+}
+
+p {
+    text-align: left;
+    word-spacing: 0.2em;
+    font-size: 120%;
+}
+
+h4 {
+    font-size: 200%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+li {
+    list-style-type: none;
+    padding-bottom: 1%;
+    text-align: left;
+    font-size: 115%;
+}

@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.header {
+    background-color: #002147;
+    font-size: 128%;
+}
+
+.header a {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 1.7%;
+}
+
+.header #navlinks {
+    display: inline;
+}
+
+.header :link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header :visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header #navlinks :hover {
+    text-decoration: underline;
+}
+
+.header #kmlogo {
+    width: 25%;
+    height: 20%;
+    vertical-align: middle;
+    padding-right: 4%;
+}
+
+#content {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+}
+
+#aboutlinks {
+    margin: auto;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    word-spacing: 3em;
+}
+
+#aboutlinks :link {
+    color: #75B2DD;
+    text-decoration: none;
+    font-size: 150%;
+    padding-top: 3%;
+    padding-right: 3%;
+    text-align: center;
+}
+
+#aboutlinks :visited {
+    color: #75B2DD;
+    text-decoration: none;
+}
+
+#aboutlinks :hover {
+    text-decoration: underline;
+}
+
+#content {
+    color: #002147;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+}
+
+#sponsorsbyline {
+    font-size: 150%;
+    padding-bottom: 5%;
+    padding-top: 10%;
+
+}
+
+#alphabetsort :link {
+    font-size: 400%;
+    color: #75B2DD;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    padding-right: 1%;
+    text-decoration: underline;
+}
+
+#alphabetsort :visited {
+    color: #75B2DD;
+}
+
+#alphabetsort {
+    padding-bottom: 5%;
+}
+
+#sponsorslist h2 :link {
+    font-size: 200%;
+    color: #002147;
+    text-decoration: none;
+    padding-bottom: 3%;
+    padding-top: 5%;
+}
+
+#sponsorslist h2 :visited {
+    color: #002147;
+}
+
+#sponsorslist h2 {
+    padding-bottom: 3%;
+    padding-top: 5%;
+}
+
+p {
+    text-align: left;
+    word-spacing: 0.2em;
+    font-size: 120%;
+}

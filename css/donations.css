@@ -46,3 +46,21 @@
     text-align: center;
     position: relative;
 }
+
+p {
+    text-align: left;
+    word-spacing: 0.2em;
+    font-size: 120%;
+}
+
+h1 {
+    font-size: 400%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+h4 {
+    font-size: 200%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
